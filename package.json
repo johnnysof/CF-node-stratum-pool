@@ -30,7 +30,7 @@
     "dependencies": {
         "async": "*",
         "base58-native": "*",
-        "multi-hashing": "github:OleksandrBlack/node-multi-hashing",
+        "multi-hashing": "github:strataspool/node-multi-hashing",
         "zeromq": "^4.6.0",
         "bignum": "^0.12.5"
     },
