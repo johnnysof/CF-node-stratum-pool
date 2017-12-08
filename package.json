@@ -30,9 +30,9 @@
     "dependencies": {
         "async": "*",
         "base58-native": "*",
+        "bignum": "^0.12.5",
         "multi-hashing": "github:strataspool/node-multi-hashing",
-        "zeromq": "^4.6.0",
-        "bignum": "^0.12.5"
+        "zeromq": "^4.6.0"
     },
     "engines": {
         "node": ">=0.10"
