@@ -1,1 +1,1 @@
-node --inspect-brk lib/index.js
+node --inspect-brk lib/index.js $1
