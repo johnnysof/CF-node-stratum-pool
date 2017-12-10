@@ -31,7 +31,7 @@
         "async": "*",
         "base58-native": "*",
         "bignum": "^0.12.5",
-        "multi-hashing": "github:strataspool/node-multi-hashing",
+        "multi-hashing": "git+https://github.com/coinfoundry/node-multi-hashing.git",
         "zeromq": "^4.6.0"
     },
     "engines": {
