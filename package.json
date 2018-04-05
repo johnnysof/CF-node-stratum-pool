@@ -32,7 +32,7 @@
         "base58-native": "*",
         "bignum": "^0.12.5",
         "multi-hashing": "git+https://github.com/coinfoundry/node-multi-hashing.git",
-        "zeromq": "^4.6.0"
+        "zeromq": "git+https://github.com/coinfoundry/zeromq.js.git"
     },
     "engines": {
         "node": ">=0.10"
