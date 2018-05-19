@@ -25,13 +25,13 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/zone117x/node-stratum-pool.git"
+        "url": "https://github.com/johnnysof/CF-node-stratum-pool.git"
     },
     "dependencies": {
         "async": "*",
         "base58-native": "*",
         "bignum": "^0.12.5",
-        "multi-hashing": "git+https://github.com/coinfoundry/node-multi-hashing.git",
+        "multi-hashing": "git+https://github.com/johnnysof/CF-node-multi-hashing.git",
         "zeromq": "^4.6.0",
         "protobufjs": "^6.8.6"
     },
