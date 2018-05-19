@@ -32,7 +32,8 @@
         "base58-native": "*",
         "bignum": "^0.12.5",
         "multi-hashing": "git+https://github.com/johnnysof/CF-node-multi-hashing.git",
-        "zeromq": "^4.6.0",
+        "zeromq": "git+https://github.com/johnnysof/zeromq.js.git",
+        //"zeromq": "^4.6.0",
         "protobufjs": "^6.8.6"
     },
     "engines": {
